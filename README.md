@@ -4,6 +4,6 @@
 
 | ลำดับ | รหัสนักศึกษา | ชื่อ-นามสกุล | บทบาท | GitHub Profile |
 |---|---|---|---|---|
-| 1 | 6729011007 | นิกัลยา รักษาสัตย์ | Team Leader | (https://github.com/6729011007-create) |
+| 1 | 6729011007 | นิกัลยา รักษาสัตย์ | Team Leader | (https://github.com/6729011007-code) |
 | 2 | 6729011020 | อัสรี ช้างสว่าง | Developer | (https://github.com/6729011020-create) |
 | 3 | 6729011018 | เฉลิมใหญ่ หลวงพรหม | Developer | (https://github.com/6729011018-create) |
