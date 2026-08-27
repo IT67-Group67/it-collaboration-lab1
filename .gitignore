@@ -1,0 +1,5 @@
+Plaintext
+# Ignore log files and environment variable files
+*.log
+.env
+temp/
